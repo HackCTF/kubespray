@@ -134,7 +134,7 @@ ingress_publish_status_address: ""
 # ingress_nginx_default: false
 
 # ALB ingress controller deployment
-ingress_alb_enabled: true
+ingress_alb_enabled: false
 # alb_ingress_aws_region: "us-east-1"
 # alb_ingress_restrict_scheme: "false"
 # Enables logging on all outbound requests sent to the AWS API.
